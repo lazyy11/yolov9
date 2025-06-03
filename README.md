@@ -1,5 +1,9 @@
 # YOLOv9
 
+**修改自[YOLOv9](https://github.com/WongKinYiu/yolov9)，用PyQt5做了一个简单的前端页面。**
+
+<img src="./data/images/前端展示.png" alt="前端样式" width="600"/>
+
 Implementation of paper - [YOLOv9: Learning What You Want to Learn Using Programmable Gradient Information](https://arxiv.org/abs/2402.13616)
 
 [![arxiv.org](http://img.shields.io/badge/cs.CV-arXiv%3A2402.13616-B31B1B.svg)](https://arxiv.org/abs/2402.13616)
